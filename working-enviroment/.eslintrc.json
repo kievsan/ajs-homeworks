@@ -9,6 +9,7 @@
             "error",
             "LabeledStatement",
             "WithStatement"
-        ]
+        ],
+        "linebreak-style": ["error", "windows"]
    }
 }
