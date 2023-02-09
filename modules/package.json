@@ -1,0 +1,22 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "Modules and Webpack (AJS-45)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kievsan/ajs-homeworks.git#ajs8"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "kievsan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kievsan/ajs-homeworks/issues"
+  },
+  "homepage": "https://github.com/kievsan/ajs-homeworks/tree/ajs8#readme"
+}
