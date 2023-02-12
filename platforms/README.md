@@ -6,7 +6,7 @@
 
 1. Ссылка на репозиторий с пакетом (https://github.com/users/kievsan/ajs-platforms)
 1. Ссылка на репозиторий проект с Node.js (https://github.com/kievsan/ajs-homeworks/tree/ajs8/platforms)
-1. Ссылка на JSBin
+1. Ссылка на JSBin (https://jsbin.com/cuzocigiri/edit?html,console)
 
 **Примечание**: это домашнее задание скорее является лабораторной работой нежели домашним заданием в прямом смысле этого слова.
 
@@ -340,7 +340,7 @@ console.log(ajs.info());
 Вы присылаете три ссылки:
 1. Ссылка на репозиторий с вашим пакетом (https://github.com/users/kievsan/ajs-platforms)
 1. Ссылка на репозиторий проект с Node.js (https://github.com/kievsan/ajs-homeworks/tree/ajs8/platforms)
-1. Ссылка на JSBin
+1. Ссылка на JSBin (https://jsbin.com/cuzocigiri/edit?html,console)
 
 ### Дополнительно
 
