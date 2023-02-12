@@ -334,8 +334,8 @@ console.log(ajs.info());
 ### Итого
 
 Вы присылаете три ссылки:
-1. Ссылка на репозиторий с вашим пакетом (https://github.com/users/kievsan/packages/npm/package/ajs-platforms)
-1. Ссылка на репозиторий проект с Node.js (https://github.com/kievsan/ajs-homeworks/tree/ajs8/platform-node-js)
+1. Ссылка на репозиторий с вашим пакетом (https://github.com/users/kievsan/ajs-platforms)
+1. Ссылка на репозиторий проект с Node.js (https://github.com/kievsan/ajs-homeworks/tree/ajs8/platforms)
 1. Ссылка на JSBin
 
 ### Дополнительно
