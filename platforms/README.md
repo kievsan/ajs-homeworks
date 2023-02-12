@@ -4,9 +4,9 @@
 
 В личном кабинете на сайте [netology.ru](http://netology.ru/) в поле комментария к домашней работе вставьте ссылки на ваш GitHub-проекты.
 
-Ссылка на репозиторий с пакетом (https://github.com/users/kievsan/ajs-platforms)
-Ссылка на репозиторий проект с Node.js (https://github.com/kievsan/ajs-homeworks/tree/ajs8/platforms)
-Ссылка на JSBin
+1. Ссылка на репозиторий с пакетом (https://github.com/users/kievsan/ajs-platforms)
+1. Ссылка на репозиторий проект с Node.js (https://github.com/kievsan/ajs-homeworks/tree/ajs8/platforms)
+1. Ссылка на JSBin
 
 **Примечание**: это домашнее задание скорее является лабораторной работой нежели домашним заданием в прямом смысле этого слова.
 
