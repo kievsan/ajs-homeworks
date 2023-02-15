@@ -5,4 +5,5 @@ const characters = [
   { name: 'лучник', health: 0 },
 ];
 
-characters.filter((item) => item.health > 0);
+const alive = characters.filter((item) => item.health > 0);
+export default alive;
